@@ -1,0 +1,81 @@
+body{
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 50px;
+}
+header{
+    background-color: aquamarine;
+    margin: auto;
+    align-content: center;
+    padding: 50px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    border-spacing: 15%;
+    text-align: center;
+}
+nav{
+    background-color: rgb(255, 115, 0);
+    margin: auto;
+    height: 40%;
+    align-content: center;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+article{
+    background-color: rgb(206, 22, 53);
+    height: 80%;
+    align-content: center;
+    padding-top:40% ;
+    padding-bottom: 40%;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    text-align: center;
+    border:solid;
+    flex:50%
+}
+.menu{
+    background-color: rgb(10, 116, 209);
+    height: 80%;
+    align-content: center;
+    padding-top:40% ;
+    padding-bottom: 40%;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    border-spacing: 15%;
+    text-align: center;
+    border: solid;
+    flex:25%;
+}
+.opcion{
+    background-color: rgb(202, 145, 145);
+    height: 80%;
+    align-content: center;
+    padding-top:40% ;
+    padding-bottom: 40%;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    border-spacing: 15%;
+    text-align: center;
+    border: solid;
+    flex:25%;
+}
+footer{
+    background-color: rgb(10, 116, 209);
+    margin: auto;
+    align-content: center;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+    border-spacing: 15%;
+    text-align: center;
+}
