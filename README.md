@@ -23,6 +23,7 @@ conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML 5 que deb
 
 
 4/ maqueta 1
+
 ![image](https://user-images.githubusercontent.com/101758506/165411202-90305cfd-1b41-462b-b871-b1101d34db15.png)
 
 
